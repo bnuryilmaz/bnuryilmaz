@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @bnuryilmaz
-- 👀 I’m interested in coding in Python and C.
-- 🌱 I’m currently improving my coding skills.
-- ⚡ Fun fact: I love teamworks and can adapt quickly.
+- 👋 Hi, I’m @bnuryilmaz, Electronics and Communication Engineer.
+- 👀 I’m interested in radar systems, antennas, communication systems, microwave engineering and coding in Matlab, C, Python.
 
 <!---
 bnuryilmaz/bnuryilmaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
